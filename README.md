@@ -3,8 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
-[![GitHub issues](https://img.shields.io/github/issues/dinxsh/daiict_hack_2024)](https://github.com/dinxsh/daiict_hack_2024/issues)
-[![GitHub stars](https://img.shields.io/github/stars/dinxsh/daiict_hack_2024)](https://github.com/dinxsh/daiict_hack_2024/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/dinxsh/sweatx)](https://github.com/dinxsh/sweatx/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dinxsh/sweatx)](https://github.com/dinxsh/sweatx/stargazers)
 
 ## Setup 💻
 
