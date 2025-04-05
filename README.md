@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/dinxsh/sweatx)](https://github.com/dinxsh/sweatx/issues)
 [![GitHub stars](https://img.shields.io/github/stars/dinxsh/sweatx)](https://github.com/dinxsh/sweatx/stargazers)
 
-## Setup 💻
+## setup 
 
 1. **Install Expo CLI:**
    ```bash
@@ -28,33 +28,33 @@
 
    ```expo start```
 
-## Contributing 🫂
+## contributing
 All contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for more information on how to get started. We promise we don't bite (unless you're a bug in the code).
 
-## Code of Conduct 🤝
+## code of conduct
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
-## Issues and Feature Requests 🐛
+## issues & feats 
 We use GitHub issues to track bugs and feature requests. Please ensure your description is clear and has sufficient instructions to be able to reproduce the issue or understand the proposed feature.
 
-## Roadmap 🗺️
+## roadmap
 Check out our [project board](https://github.com/dinxsh/sweatx/projects) to see what we're planning for the future of Aarogya!
 
-## Tech Stack 🛠️
+## tech
 - React Native with Expo
 - Node.js backend (Express.js)
 - MongoDB for data storage
 - Aptos wallet integration
 
-## License 🗝️
-Aarogya is released under the MIT License. See [LICENSE](LICENSE) for details. It's basically our way of saying "use it, abuse it, but please don't sue us". 😄
+## license 
+released under the MIT License. See [LICENSE](LICENSE) for details. It's basically our way of saying "use it, abuse it, but please don't sue us". 😄
 
-## Acknowledgements 👏
+## acknowledgements
 - [Expo](https://expo.io/) for making mobile development a breeze
 - [React Native](https://reactnative.dev/) for the cross-platform magic
 - All our amazing contributors who make Aarogya better every day
 
-## Support 🙏
+## support
 If you like what we're doing, consider giving us a ⭐️ on GitHub!
 
 ---
