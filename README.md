@@ -1,4 +1,4 @@
-# High-Fi
+## sweatX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
@@ -15,12 +15,12 @@
 
 2. Clone the repository:
 
-   ```git clone https://github.com/dinxsh/high-fi.git```
+   ```git clone https://github.com/dinxsh/sweatx.git```
 
 
 3. Install dependencies:
 
-   ```cd high-fi
+   ```cd sweatx
    npm install
    ```
 
@@ -38,7 +38,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 We use GitHub issues to track bugs and feature requests. Please ensure your description is clear and has sufficient instructions to be able to reproduce the issue or understand the proposed feature.
 
 ## Roadmap 🗺️
-Check out our [project board](https://github.com/dinxsh/high-fi/projects) to see what we're planning for the future of Aarogya!
+Check out our [project board](https://github.com/dinxsh/sweatx/projects) to see what we're planning for the future of Aarogya!
 
 ## Tech Stack 🛠️
 - React Native with Expo
